@@ -8,3 +8,7 @@
 ***- Remoção de elementos***  
 ***- Busca de elementos***    
 ***- Impressão da árvore***  
+- Temas dark e light
+- Preview em tempo real
+- Modo tela cheia
+- Multiplataforma
