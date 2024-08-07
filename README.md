@@ -8,6 +8,7 @@ em C. A Árvore Rubro-Negra é utilizada para manter uma coleção ordenada de e
 operações de inserção, deleção e busca em tempo logarítmico.
 
 ⚙️ Funcionalidades
+
 Inserção de elementos;
 Remoção de elementos;
 Busca de elementos;
