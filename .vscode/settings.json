@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "cstddef": "cpp",
+        "stdlib.h": "c",
+        "2_incluirinfo.h": "c",
+        "4_buscarinfo.h": "c",
+        "2_incluirinfoinicio.h": "c",
+        "13_unirlistas.h": "c",
+        "5_incluirinfomeio.h": "c",
+        "2_criarlista.h": "c",
+        "10_destruirlista.h": "c",
+        "9_imprimirlista.h": "c",
+        "15_buscarinfopos.h": "c",
+        "14_buscarnoinfo.h": "c",
+        "3_excluirinfo.h": "c",
+        "tad_arvore.h": "c",
+        "1_criararvore.h": "c",
+        "10_desenhaarvore.h": "c"
+    },
+    "DockerRun.DisableAutoGenerateConfig": true
+}

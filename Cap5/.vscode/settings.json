@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "6_preordem.h": "c",
+        "5_emordem.h": "c",
+        "12_desenhaarvore.h": "c",
+        "0_struct_descritor.h": "c",
+        "1_criararvore.h": "c",
+        "0_struct_arvore.h": "c",
+        "3_excluirinfo.h": "c",
+        "4_buscarinfo.h": "c",
+        "windows.h": "c",
+        "arvorerubronegra.h": "c"
+    }
+}
